@@ -1,2 +1,2 @@
 # Blackjack
-Second project
+## Let's go gambling!
